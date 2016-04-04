@@ -1,0 +1,19 @@
+{
+  "name": "ssl-expiration-api",
+  "version": "0.1.0",
+  "description": "TLS HTTPS Certificate expiration API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Daniel Doležal <dan@utio.cz>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.12.0",
+    "restify": "^4.0.4",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+
+  }
+}
